@@ -8,6 +8,10 @@
 
 ![image](https://user-images.githubusercontent.com/14249877/155548680-e501550c-cf76-4c90-88c6-c4a061947717.png)
 
+## 既存のアバター作成に使用したプロジェクトの場合
+3. Hierarchy上にモデルがない場合は、ProjectからprefabをHierarchyにドラッグします。
+4. 次の手順は8.へ飛びます。
+
 ## VRMファイルをインポートする場合
 3. [UniVRM](https://github.com/vrm-c/UniVRM/releases)から`UniVRM-*.**.*_****.unitypackage`をダウンロードして、同じくImport Packageします。
 4. Use recommended Liniarを押して、Closeします。
@@ -22,12 +26,11 @@
 
 ![image](https://user-images.githubusercontent.com/14249877/155550384-0c7911be-8856-4b91-af1f-1fce1e0ff654.png)
 
-7. ProjectのAssetsフォルダに読み込まれたVRMファイルのprefabがあるので、Hierarchyにドラッグします。
+7. ProjectのAssetsフォルダに読み込まれたVRMファイルのprefabがあるので、Hierarchyにドラッグします。次の手順は8.へ飛びます。
 
 ![image](https://user-images.githubusercontent.com/14249877/155550825-f35a705c-5f89-4a98-9a43-750501d948dd.png)
-8.へ飛びます。
 
-## unityプロジェクト形式で配布されているモデルの場合(VRChat用等)
+## unityパッケージ形式で配布されているモデルの場合(VRChat用等)
 3. 配布されているモデルの手順に従って、必要ならシェーダーのインポート後にモデルをインポートします。
 4. Hierarchy上にモデルがない場合は、ProjectからprefabをHierarchyにドラッグします。
 
