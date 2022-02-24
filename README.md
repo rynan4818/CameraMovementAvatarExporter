@@ -3,7 +3,7 @@
 
 
 # 使用方法
-1. 適当なUnityのバージョンで新規プロジェクトを作成するか、既存のアバター作成に使用したプロジェクトを別名コピーします。
+1. 適当なUnityのバージョンで新規プロジェクトを作成するか、既存のアバター作成に使用したプロジェクトを別名コピー(シェーダー変更するので)して開きます。
 2. [Releases](https://github.com/rynan4818/CameraMovementAvatarExporter/releases)から`CameraMovementAvatarExporter.unitypackage`をダウンロードして、Assets -> Import Package -> Custom Package... でインポートします。
 
 ![image](https://user-images.githubusercontent.com/14249877/155548680-e501550c-cf76-4c90-88c6-c4a061947717.png)
