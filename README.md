@@ -1,0 +1,2 @@
+# CameraMovementAvatarExporter
+CameraMovement用のカスタムアバター作成Unityパッケージ
