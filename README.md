@@ -36,15 +36,15 @@
 
 ![image](https://user-images.githubusercontent.com/14249877/155551861-9fb9dc22-55b5-4c16-8a1e-9c15dfadb25b.png)
 
-9. Materialを開いて、Textureに割り当てられている画像ファイルを調べて覚えておきます。
+9. Materialを開いて、Textureに割り当てられている画像ファイル(クリックするとProjectで自動で該当画像に飛びます)を調べて覚えておきます。
 
 ![image](https://user-images.githubusercontent.com/14249877/155552498-62e5606f-c119-4531-9e8c-57e0983cc989.png)
 
-10. Shader を BeatSaber から Unlit Glow に変更します。
+10. Shader を BeatSaber にある Unlit Glow に変更します。
 
 ![image](https://user-images.githubusercontent.com/14249877/155552991-08db7d1e-1888-46e3-ba69-b75fa29166b8.png)
 
-11. 変更するとTextureが外れるので、先程調べた画像ファイルを選択し直します。
+11. 変更するとTextureが外れるので、先程調べた画像ファイルを選択し直します。(Selectボタンもしくは、Projectから該当画像をドラッグ＆ペースト)
 
 ![image](https://user-images.githubusercontent.com/14249877/155553449-80e04ea7-9e29-4b6d-bdfa-e06fe29b77c1.png)
 
@@ -69,4 +69,8 @@
 ![image](https://user-images.githubusercontent.com/14249877/155556336-0dae7a43-ebdc-403a-a26b-95e704d2bb17.png)
 
 
+# 本リポジトリについて
 
+CameraMovementAvatarExporterは[BeatSaberCustomAvatars](https://github.com/nicoco007/BeatSaberCustomAvatars)の[Unity/BeatSaberCustomAvatars](https://github.com/nicoco007/BeatSaberCustomAvatars/tree/main/Unity/BeatSaberCustomAvatars)からシェーダーと[AvatarExporterWindow.cs](https://github.com/nicoco007/BeatSaberCustomAvatars/blob/main/Source/CustomAvatar-Editor/Editor/AvatarExporterWindow.cs)をコピーし、修正して使用しています。
+
+BeatSaberCustomAvatarsのライセンス[GNU Lesser General Public License v3.0](https://github.com/nicoco007/BeatSaberCustomAvatars/blob/main/LICENSE.txt)に従い、[本ライセンス](https://github.com/rynan4818/CameraMovementAvatarExporter/blob/main/LICENSE.txt)も同様にLGPL3.0とします。
