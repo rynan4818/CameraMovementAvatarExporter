@@ -14,7 +14,10 @@
 
 ## VRMファイルをインポートする場合
 3. [UniVRM](https://github.com/vrm-c/UniVRM/releases)から`UniVRM-*.**.*_****.unitypackage`をダウンロードして、同じくImport Packageします。
-4. Use recommended Liniarを押して、Closeします。
+4. Unityプロジェクトのカラースペースの設定がガンマ(Gamma)だと下記画面が出るため、Use recommended Linearを押して、Closeします。
+
+    この画面を飛ばしても、Edit -> Project Settings -> Player -> Other Settings の Rendering項目のColor Space で設定可能です。
+    GammaとLinearの違いは[ググる](https://www.google.co.jp/search?q=Unity+Gamma+Linear)と色々出てきます。現在は基本的にLinearで良いです。
 
 ![image](https://user-images.githubusercontent.com/14249877/155549796-b9219a2d-02ae-4262-ae96-778975ec5d62.png)
 
